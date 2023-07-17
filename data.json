@@ -1,0 +1,20 @@
+[
+    {
+        "title": "star",
+        "author": "alas",
+        "isbn": "ab455",
+        "review": "nice"
+    },
+    {
+        "title": "the sky",
+        "author": "Boboja",
+        "isbn": "bd450",
+        "review": "hard to explain"
+    },
+    {
+        "title": "the moon",
+        "author": "kavi",
+        "isbn": "cd377",
+        "review": "sad"
+    }
+]
